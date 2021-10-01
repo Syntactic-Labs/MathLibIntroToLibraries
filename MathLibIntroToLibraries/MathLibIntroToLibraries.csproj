@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MathLibIntroToLibraries</RootNamespace>
+    <AssemblyName>MathLibIntroToLibraries</AssemblyName>
+  </PropertyGroup>
+
+</Project>
