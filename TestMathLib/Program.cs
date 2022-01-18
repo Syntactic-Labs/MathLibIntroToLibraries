@@ -27,6 +27,7 @@ namespace TestMathLib
             Console.WriteLine($"{MathLibrary.About}");
 
             Console.WriteLine($"Inverse: {MathLibrary.Inverse(5)}");
+            Console.WriteLine($"Modulo: {3.Modulo(5)}");
             //========================================================================================================================
             Console.WriteLine($"Reverse Method!");
             var reversedString = StringLib.Reverse("abcd");

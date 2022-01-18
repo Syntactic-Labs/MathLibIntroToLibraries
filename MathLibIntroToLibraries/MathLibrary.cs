@@ -10,9 +10,9 @@ namespace MathLibIntroToLibraries
             return 1 / a;
         }
 
-        public static int Modulo(int a, int b)
+        public static int Modulo(this int a, int b)
         {
-            return a - (a / b * b);
+            return a % b;
         }
 
         public static long Cubed(int a)
